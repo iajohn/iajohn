@@ -8,14 +8,14 @@
 ### Career Objectives
 <hr>
 <p>
-    Experienced Software Developer with 5+ years of experience in the field of Web Technology with expertise in Software Development Life Cycle (SDLC) with an emphasis in current PHP frameworks, JavaScript and .NET.
+    Diligent software engineer with 5+ years of experience in delivering top-notch app development and troubleshooting. Facilitated the development of a performance management system web application at Wema Bank. Seeking to draw on proven software development and engineering skills to increase and improve [Company’s Name] impressive line of applications. In previous roles, slashed downtime by 25% and ensured 98% on-time project completion. Also identified and dealt with a significant process bottleneck that boosted coding efficiency by 67% when resolved.
 </p>
 
 <br>
 
 <details open>
     <summary>
-        <strong>Areas of Expertise</strong>
+        <strong>Skills </strong>
     </summary>
     <hr>
     <br>    
@@ -37,24 +37,19 @@
     </summary>
     <hr>
     <br>
+    <p><strong>Software Engineer</strong></p>
     <p><strong>Financial Control & Risk Management Services (FRMS), Lagos, Nigeria</strong></p>
     <p><small><em>September 2020 – Date</em></small></p>
-    <p><strong>Software Developer</strong></p>
     <p>-------------------------------------------------------------------------------------</p>
     <br>
+    <p><strong>Software Developer Consultant </strong></p>
     <p><strong>XKG Integrated Services</strong></p>
     <p><small><em></em></small></p>
-    <p><strong>Consultant - Software Developer (PHP)</strong></p>
     <p>-------------------------------------------------------------------------------------</p>
     <br>
+    <p><strong>Full-Stack Web Developer (Freelance)</strong></p>
     <p><strong>OEA Consults Ltd, Lagos, Nigeria</strong></p>
     <p><small><em>August 2019 – May 2020</em></small></p>
-    <p><strong>Full-Stack Web Developer (Freelance)</strong></p>
-    <p>-------------------------------------------------------------------------------------</p>
-    <br>
-    <p><strong>Olivearc Solutions, Ogun, Nigeria</strong></p>
-    <p><small><em>November 2018 – July 2019</em></small></p>
-    <p><strong>Chief Technology Officer (CTO)</strong></p>
     <p>-------------------------------------------------------------------------------------</p>
     <br>
     <p><strong>Incattech Fashion</strong></p>
