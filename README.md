@@ -10,7 +10,7 @@
 ### Career Objectives
 
 <p>
-Experienced Software Engineer with 5+ years of experience in the field of Web Technology specializing in PHP, JavaScript technologies and AWS. Professional experience with the technologies listed in the **toolbox** below.
+Experienced Software Engineer with 5+ years of experience in the field of Web Technology specializing in PHP, JavaScript technologies. Professional experience with the technologies listed in the **toolbox** below.
 </p>
 <p>
 I create tech content, mostly about Web Development, PHP, JavaScript and Interview tips, **but** I also talk about other topics than coding. I'd advise you to subscribe to stay up-to-date!
